@@ -1,11 +1,7 @@
-name: crystalshards
+name: crystalshards-cli
 version: 0.1.0
-author: Luis Ferreira
+author: Ricardo Tomasi
 
-dependencies:
-  kemal:
-    github: sdogruyol/kemal
-    version: 0.11.2
+esependencies:
   emoji:
     github: veelenga/emoji.cr
-    version: 0.1.0

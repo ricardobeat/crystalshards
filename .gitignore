@@ -1,6 +1,4 @@
 .crystal
 .deps
 libs
-.sass-cache
-node_modules
 .shards
